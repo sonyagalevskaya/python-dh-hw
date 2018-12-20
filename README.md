@@ -10,6 +10,6 @@
 ---|---|---
 1|HW1|[HW1](https://github.com/sonyagalevskaya/python-dh-hw/blob/master/HW1.ipynb)
 2|HW2|[HW2](https://github.com/sonyagalevskaya/python-dh-hw/blob/master/HW2.ipynb)
-3|HW0|Вы смотрите на него прямо сейчас:)
-
-
+3|HW3|[HW3](https://github.com/sonyagalevskaya/python-dh-hw/blob/master/HW3.ipynb)
+4|HW4|[HW4](https://github.com/sonyagalevskaya/python-dh-hw/blob/master/HW4.ipynb)
+53|HW0|Вы смотрите на него прямо сейчас:)
